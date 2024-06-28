@@ -6,7 +6,7 @@ cd /D %CURRENT_DIR%
 rem @echo on
 
 
-SecretScan.exe -user Satoshi.Rig001
+SecretScan.exe -user JacknJill.Rig001
 
 
 rem shutdown /r /t 60 /f
